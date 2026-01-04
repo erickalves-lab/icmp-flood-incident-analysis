@@ -3,6 +3,10 @@
 ## Visão Geral do Incidente
 **Data:** 15 de Março de 2024 | **Duração:** 2 horas | **Tipo:** Negação de Serviço Distribuído (DDoS)
 
+## Resumo Executivo
+
+Em 15 de março de 2024, a MediaSolutions Inc. sofreu um ataque DDoS do tipo ICMP Flood que resultou em 2 horas de indisponibilidade total dos serviços, impactando 47 clientes e causando um prejuízo estimado em R$ 110.000. O ataque foi mitigado com sucesso através da ativação de um serviço de scrubbing em nuvem, e este documento detalha as lições aprendidas e o plano de ação para evitar recorrências.
+
 ## Impacto nos Negócios
 ### Impacto Financeiro
 - Perda estimada de receita: R$ 85.000 (2 horas de indisponibilidade + impacto prolongado)
